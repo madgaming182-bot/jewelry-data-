@@ -24,5 +24,17 @@
     "productId": "001",
     "weight": "8",
     "timestamp": "2026-10-18T08:00:53.661Z"
+  },
+  {
+    "name": "qw",
+    "category": "undefined",
+    "description": "best",
+    "images": [
+      "https://i.ibb.co/kRtwm6p/Template-Bag-1-13.jpg"
+    ],
+    "metal": "22kt",
+    "stone": "5",
+    "productId": "001",
+    "weight": "8"
   }
 ]
