@@ -46,5 +46,15 @@
     "stone": "0",
     "productId": "00001",
     "weight": "50"
+  },
+  {
+    "name": "gens ",
+    "category": "undefined",
+    "description": "LION",
+    "images": [],
+    "metal": "GOLD",
+    "stone": "0",
+    "productId": "10",
+    "weight": "10"
   }
 ]
