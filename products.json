@@ -36,5 +36,15 @@
     "stone": "5",
     "productId": "001",
     "weight": "8"
+  },
+  {
+    "name": "abi",
+    "category": "undefined",
+    "description": "hi",
+    "images": [],
+    "metal": "92",
+    "stone": "0",
+    "productId": "00001",
+    "weight": "50"
   }
 ]
