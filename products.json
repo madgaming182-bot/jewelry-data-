@@ -38,16 +38,6 @@
     "weight": "8"
   },
   {
-    "name": "abi",
-    "category": "undefined",
-    "description": "hi",
-    "images": [],
-    "metal": "92",
-    "stone": "0",
-    "productId": "00001",
-    "weight": "50"
-  },
-  {
     "name": "gens ",
     "category": "undefined",
     "description": "LION",
@@ -76,15 +66,5 @@
     "stone": "1",
     "productId": "002",
     "weight": "5"
-  },
-  {
-    "name": "gens",
-    "category": "undefined",
-    "description": "hi ",
-    "images": [],
-    "metal": "92",
-    "stone": "2",
-    "productId": "00001",
-    "weight": "4.50"
   }
 ]
