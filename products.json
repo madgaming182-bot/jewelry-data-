@@ -35,5 +35,15 @@
     "stone": "0",
     "productId": "10",
     "weight": "10"
+  },
+  {
+    "name": "abiisai",
+    "category": "undefined",
+    "description": "ai",
+    "images": [],
+    "metal": "92",
+    "stone": "0",
+    "productId": "1",
+    "weight": "4"
   }
 ]
