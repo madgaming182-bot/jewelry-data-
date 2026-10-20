@@ -35,25 +35,5 @@
     "stone": "0",
     "productId": "10",
     "weight": "10"
-  },
-  {
-    "name": "isai",
-    "category": "undefined",
-    "description": "my l",
-    "images": [],
-    "metal": "92",
-    "stone": "1",
-    "productId": "002",
-    "weight": "5"
-  },
-  {
-    "name": "isai",
-    "category": "undefined",
-    "description": "my l",
-    "images": [],
-    "metal": "92",
-    "stone": "1",
-    "productId": "002",
-    "weight": "5"
   }
 ]
