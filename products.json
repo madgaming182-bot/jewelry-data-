@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "nk",
+    "category": "undefined",
+    "description": "nice",
+    "images": [
+      "https://i.ibb.co/V02JdWZm/7ec8b67e49d44847a1c9c3faf50599f7.jpg"
+    ],
+    "metal": "92",
+    "stone": "no",
+    "productId": "AIBS-001",
+    "weight": "8.00"
+  }
+]
