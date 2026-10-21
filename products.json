@@ -10,5 +10,17 @@
     "stone": "no",
     "productId": "AIBS-001",
     "weight": "8.00"
+  },
+  {
+    "name": "GB BANGLE",
+    "category": "undefined",
+    "description": "LOOCK LIKE NICE",
+    "images": [
+      "https://i.ibb.co/8LjkPJnF/7ec8b67e49d44847a1c9c3faf50599f7-4.jpg"
+    ],
+    "metal": "92",
+    "stone": "0",
+    "productId": "AIBS-002",
+    "weight": "4"
   }
 ]
