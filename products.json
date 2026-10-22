@@ -22,15 +22,5 @@
     "stone": "0",
     "productId": "AIBS-002",
     "weight": "4"
-  },
-  {
-    "name": "kaaa",
-    "category": "undefined",
-    "description": "fa",
-    "images": [],
-    "metal": "92",
-    "stone": "0",
-    "productId": "12345",
-    "weight": "45"
   }
 ]
