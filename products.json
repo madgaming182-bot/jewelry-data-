@@ -45,5 +45,15 @@
     "stone": "",
     "productId": "",
     "weight": ""
+  },
+  {
+    "name": "cross",
+    "category": "pendant",
+    "description": "pendants",
+    "images": [],
+    "metal": "22",
+    "stone": "0",
+    "productId": "kkn-jds-110",
+    "weight": "4"
   }
 ]
