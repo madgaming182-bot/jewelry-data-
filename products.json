@@ -35,5 +35,15 @@
     "stone": "1",
     "productId": "kk-nk-222",
     "weight": "5"
+  },
+  {
+    "name": "gr",
+    "category": "ring",
+    "description": "new",
+    "images": [],
+    "metal": "",
+    "stone": "",
+    "productId": "",
+    "weight": ""
   }
 ]
