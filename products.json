@@ -22,5 +22,18 @@
     "stone": "0",
     "productId": "AIBS-002",
     "weight": "4"
+  },
+  {
+    "name": "br",
+    "category": "undefined",
+    "description": "b.....",
+    "images": [
+      "https://i.ibb.co/qLZ7mR96/Template-Bag-1.jpg",
+      "https://youtube.com/shorts/rjxeEemnfPs?si=BU_NTVIUkvxJoTbg"
+    ],
+    "metal": "92",
+    "stone": "1",
+    "productId": "kk-nk-222",
+    "weight": "5"
   }
 ]
