@@ -55,5 +55,17 @@
     "stone": "0",
     "productId": "kkn-jds-110",
     "weight": "4"
+  },
+  {
+    "name": "ring",
+    "category": "ring",
+    "description": ".",
+    "images": [
+      "https://i.ibb.co/VcPvH8ss/Whats-App-Image-2026-10-22-at-7-57-12-PM-1.jpg"
+    ],
+    "metal": "",
+    "stone": "",
+    "productId": "kk-017-113",
+    "weight": "12"
   }
 ]
