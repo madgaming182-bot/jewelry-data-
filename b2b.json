@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "sku": "B2B-RNG-001",
+    "name": "Rings Design 001",
+    "category": "Rings",
+    "img": "https://i.ibb.co/qLZ7mR96/Template-Bag-1.jpg",
+    "qty": 1
+  },
+  {
+    "sku": "B2B-RNG-002",
+    "name": "Rings Design 002",
+    "category": "Rings",
+    "img": "https://i.ibb.co/SDQnywjK/Template-Bag-1-9.jpg",
+    "qty": 1
+  }
+]
