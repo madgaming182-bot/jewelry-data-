@@ -1,19 +1,5 @@
 [
   {
-    "sku": "B2B-RNG-001",
-    "name": "Rings Design 001",
-    "category": "Rings",
-    "img": "https://i.ibb.co/qLZ7mR96/Template-Bag-1.jpg",
-    "qty": 1
-  },
-  {
-    "sku": "B2B-RNG-002",
-    "name": "Rings Design 002",
-    "category": "Rings",
-    "img": "https://i.ibb.co/SDQnywjK/Template-Bag-1-9.jpg",
-    "qty": 1
-  },
-  {
     "sku": "B2B-ERG-001",
     "name": "Earrings Design 001",
     "category": "Earrings",
@@ -67,20 +53,6 @@
     "name": "Rings Design 001",
     "category": "Rings",
     "img": "https://i.ibb.co/Y7zS0ZZr/360-F-2070946274-g3-NPI1-GOqgo-QUkk-Uf-Rl-E4nejtml1-OFDr.jpg",
-    "qty": 1
-  },
-  {
-    "sku": "B2B-BNG-001",
-    "name": "Bangle Design 001",
-    "category": "Bangle",
-    "img": "https://i.ibb.co/8LjkPJnF/7ec8b67e49d44847a1c9c3faf50599f7-4.jpg",
-    "qty": 1
-  },
-  {
-    "sku": "B2B-ERG-001",
-    "name": "Earrings Design 001",
-    "category": "Earrings",
-    "img": "https://i.ibb.co/8LjkPJnF/7ec8b67e49d44847a1c9c3faf50599f7-4.jpg",
     "qty": 1
   }
 ]
