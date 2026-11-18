@@ -89,5 +89,12 @@
     "category": "Bangle",
     "img": "https://i.ibb.co/8LjkPJnF/7ec8b67e49d44847a1c9c3faf50599f7-4.jpg",
     "qty": 1
+  },
+  {
+    "sku": "B2B-ERG-001",
+    "name": "Earrings Design 001",
+    "category": "Earrings",
+    "img": "https://i.ibb.co/8LjkPJnF/7ec8b67e49d44847a1c9c3faf50599f7-4.jpg",
+    "qty": 1
   }
 ]
