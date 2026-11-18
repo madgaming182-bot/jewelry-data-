@@ -28,13 +28,6 @@
     "qty": 1
   },
   {
-    "sku": "B2B-ERG-004",
-    "name": "Earrings Design 004",
-    "category": "Earrings",
-    "img": "https://i.ibb.co/fd4MK71B/favicon-16x16.png",
-    "qty": 1
-  },
-  {
     "sku": "B2B-ERG-005",
     "name": "Earrings Design 005",
     "category": "Earrings",
@@ -88,13 +81,6 @@
     "name": "Earrings Design 001",
     "category": "Earrings",
     "img": "https://i.ibb.co/8LjkPJnF/7ec8b67e49d44847a1c9c3faf50599f7-4.jpg",
-    "qty": 1
-  },
-  {
-    "sku": "B2B-ERG-001",
-    "name": "Earrings Design 001",
-    "category": "Earrings",
-    "img": "https://i.ibb.co/fd4MK71B/favicon-16x16.png",
     "qty": 1
   }
 ]
