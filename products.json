@@ -55,15 +55,5 @@
     "stone": "0",
     "productId": "kkn-jds-110",
     "weight": "4"
-  },
-  {
-    "name": "gr",
-    "category": "ring",
-    "description": "new",
-    "images": [],
-    "metal": "22",
-    "stone": "01",
-    "productId": "1111111",
-    "weight": "22"
   }
 ]
