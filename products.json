@@ -22,5 +22,15 @@
     "stone": "0",
     "productId": "AIBS-002",
     "weight": "4"
+  },
+  {
+    "name": "abi",
+    "category": "stud",
+    "description": "123",
+    "images": [],
+    "metal": "22",
+    "stone": "0",
+    "productId": "kkb-202-jfs",
+    "weight": "5"
   }
 ]
