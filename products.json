@@ -8,17 +8,5 @@
     "stone": "0",
     "productId": "kkb-202-jfs",
     "weight": "5"
-  },
-  {
-    "name": "atd",
-    "category": "stud",
-    "description": "mbhf",
-    "images": [
-      "https://i.ibb.co/V02JdWZm/7ec8b67e49d44847a1c9c3faf50599f7.jpg"
-    ],
-    "metal": "22",
-    "stone": "0",
-    "productId": "88675575",
-    "weight": "100"
   }
 ]
